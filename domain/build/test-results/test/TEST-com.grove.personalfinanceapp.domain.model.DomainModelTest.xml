@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grove.personalfinanceapp.domain.model.DomainModelTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-04-09T14:11:49" hostname="DESKTOP-MTBC9NG" time="0.071">
+  <properties/>
+  <testcase name="budget progress reports when spending exceeds the budget" classname="com.grove.personalfinanceapp.domain.model.DomainModelTest" time="0.029"/>
+  <testcase name="dashboard summary derives net balance from income and expenses" classname="com.grove.personalfinanceapp.domain.model.DomainModelTest" time="0.028"/>
+  <testcase name="savings goals clamp remaining amount at zero when overfunded" classname="com.grove.personalfinanceapp.domain.model.DomainModelTest" time="0.007"/>
+  <testcase name="expense transactions expose a negative signed amount" classname="com.grove.personalfinanceapp.domain.model.DomainModelTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
