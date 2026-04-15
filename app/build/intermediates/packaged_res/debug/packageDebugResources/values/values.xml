@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="launch_background">#081C34</color>
+    <string name="app_name">Personal Finance</string>
+    <style name="Theme.PersonalFinanceApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowBackground">@color/launch_background</item>
+    </style>
+</resources>

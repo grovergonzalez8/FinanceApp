@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grove.personalfinanceapp.domain.usecase.savingsgoal.SavingsGoalUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-04-15T02:34:44" hostname="DESKTOP-MTBC9NG" time="0.022">
+  <properties/>
+  <testcase name="create savings goal normalizes blank descriptions and uses the default current amount" classname="com.grove.personalfinanceapp.domain.usecase.savingsgoal.SavingsGoalUseCaseTest" time="0.011"/>
+  <testcase name="add contribution returns not found when the goal does not belong to the user" classname="com.grove.personalfinanceapp.domain.usecase.savingsgoal.SavingsGoalUseCaseTest" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

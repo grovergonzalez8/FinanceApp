@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.grove.personalfinanceapp-mergeDebugResources-72:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\grove\\.gradle\\caches\\transforms-4\\ed4140199fc35093d45e2aeaac86f58f\\transformed\\appcompat-1.6.1\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

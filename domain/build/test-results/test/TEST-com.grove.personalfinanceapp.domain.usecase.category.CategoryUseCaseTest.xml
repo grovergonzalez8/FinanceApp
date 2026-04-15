@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grove.personalfinanceapp.domain.usecase.category.CategoryUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-04-15T02:34:44" hostname="DESKTOP-MTBC9NG" time="0.03">
+  <properties/>
+  <testcase name="delete category fails when the category is linked to transactions" classname="com.grove.personalfinanceapp.domain.usecase.category.CategoryUseCaseTest" time="0.014"/>
+  <testcase name="update category blocks type changes while the category is referenced" classname="com.grove.personalfinanceapp.domain.usecase.category.CategoryUseCaseTest" time="0.006"/>
+  <testcase name="create category always creates a non default category" classname="com.grove.personalfinanceapp.domain.usecase.category.CategoryUseCaseTest" time="0.01"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

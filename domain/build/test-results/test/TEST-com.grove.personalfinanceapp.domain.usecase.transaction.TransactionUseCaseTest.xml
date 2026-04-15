@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grove.personalfinanceapp.domain.usecase.transaction.TransactionUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-04-15T02:34:44" hostname="DESKTOP-MTBC9NG" time="0.023">
+  <properties/>
+  <testcase name="update transaction preserves created at and refreshes updated at" classname="com.grove.personalfinanceapp.domain.usecase.transaction.TransactionUseCaseTest" time="0.009"/>
+  <testcase name="delete transaction returns not found when the transaction is outside the user scope" classname="com.grove.personalfinanceapp.domain.usecase.transaction.TransactionUseCaseTest" time="0.006"/>
+  <testcase name="add transaction rejects categories whose type does not match" classname="com.grove.personalfinanceapp.domain.usecase.transaction.TransactionUseCaseTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

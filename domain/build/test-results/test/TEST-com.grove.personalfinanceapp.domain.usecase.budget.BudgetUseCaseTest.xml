@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.grove.personalfinanceapp.domain.usecase.budget.BudgetUseCaseTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-04-15T02:34:44" hostname="DESKTOP-MTBC9NG" time="0.135">
+  <properties/>
+  <testcase name="create budget rejects categories that are not expenses" classname="com.grove.personalfinanceapp.domain.usecase.budget.BudgetUseCaseTest" time="0.117"/>
+  <testcase name="create budget rejects invalid monthly ranges" classname="com.grove.personalfinanceapp.domain.usecase.budget.BudgetUseCaseTest" time="0.004"/>
+  <testcase name="update budget preserves created at and refreshes updated at" classname="com.grove.personalfinanceapp.domain.usecase.budget.BudgetUseCaseTest" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
